@@ -176,6 +176,7 @@ vendor/lib/hw/gatekeeper.msm8953.so
 vendor/lib64/hw/gatekeeper.msm8953.so
 
 # GPS
+
 vendor/bin/hw/vendor.qti.gnss@1.0-service
 vendor/bin/loc_launcher
 vendor/bin/lowi-server
@@ -214,6 +215,23 @@ vendor/lib64/vendor.qti.gnss@1.1.so
 vendor/lib64/vendor.qti.gnss@1.2.so
 vendor/lib64/vendor.qti.gnss@2.0.so
 vendor/lib64/vendor.qti.gnss@2.1.so
+vendor/lib/libgps.utils.so
+vendor/lib64/libgps.utils.so
+vendor/lib/hw/android.hardware.gnss@1.0-impl-qti.so
+vendor/lib64/hw/android.hardware.gnss@1.0-impl-qti.so
+vendor/lib/libloc_core.so
+vendor/lib/libgnss.so
+vendor/lib/libgnsspps.so
+vendor/lib/libgps.utils.so
+vendor/lib64/libgnss.so
+vendor/lib64/libgnsspps.so
+vendor/lib64/libgps.utils.so
+vendor/lib64/libloc_core.so
+lib/android.hardware.gnss@1.0.so
+lib/android.hardware.gnss@1.1.so
+lib64/android.hardware.gnss@1.0.so
+lib64/android.hardware.gnss@1.1.so
+
 
 # Graphics
 lib/libsdm-disp-apis.so:vendor/lib/libsdm-disp-apis.so
